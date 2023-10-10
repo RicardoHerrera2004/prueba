@@ -2,6 +2,9 @@
 
 int main (void) {
 
-    printf ("hello");
+    printf ("hello \n");
+    int x;
+    scanf ("%d", x);
+    printf ("%d", x);
     return 0;
 }
